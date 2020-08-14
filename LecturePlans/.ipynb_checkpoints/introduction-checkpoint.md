@@ -10,7 +10,7 @@ Within AWS Educate there are two primary sources of credits:
 * AWS Educate Starter Account
 * AWS Educate Classroom Account
 
-### Starter account
+### Sign up for the Starter account
 Any student may sign up for a starter account. These credits are valid for one year and are not tied to any class. As an AWS Academy institution, Emory students receive additional credits in their starter accounts.
 1. Go to [awseducate.com](awseducate.com).
-2. 
+2. Sign up as a student.

@@ -14,5 +14,5 @@ Each student will:
 3. Learn foundational knowledge of cloud computing
 4. Creatively implement what they have been learning in a final project using cloud resources.
 
-* [Syllabus](syllabus.md)
-* [Schedule](schedule.md)
+* [Syllabus](CourseAssets/syllabus.md)
+* [Schedule](CourseAssets/schedule.md)

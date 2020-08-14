@@ -23,10 +23,10 @@ AWS experts develop and maintain the Cloud Foundations reference material specif
 ## Grading
 
 * 3 Homework assignments: 30%
-* Weekly Take-Home quizzes: 20%
+* Weekly take-home quizzes: 20%
 * Project proposal: 10%
 * Final project: 30%
-* Final Exam: 10%
+* Final exam: 10%
 
 ## Project Proposal
 

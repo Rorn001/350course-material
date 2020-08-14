@@ -2,7 +2,7 @@
 
 | Date | Topic | Additional Materials |Assignment<br> (see [textbook](https://allendowney.github.io/ElementsOfDataScience/) for Notebooks) | Deadlines |
 |:---:|---|:---:|:---:|:---:|
-|08/20| [Introduction to QTM 350](LecturePlans/introduction.md) | [Computer Literacy codelab](https://codelabs-jacobson.s3.us-east-2.amazonaws.com/essential-computer-literacy/index.html) | Read Computer codelab <br>  Read Notebook 1|  |
+|08/20| Introduction to QTM 350 | [Computer Literacy codelab](https://codelabs-jacobson.s3.us-east-2.amazonaws.com/essential-computer-literacy/index.html) | Read Computer codelab <br>  Read Notebook 1|  |
 |08/25| Project Jupyter |  | Read Notebook 2 |  |
 |08/27| Computing essentials | [Introduction to Linux codelab](https://codelabs-jacobson.s3.us-east-2.amazonaws.com/introduction-to-linux/index.html) | Read Linux codelab |Test yourself quiz: week 1|
 |09/01| Times and places | | Read Notebook 3 |

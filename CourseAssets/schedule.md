@@ -15,7 +15,7 @@
 |09/24| Global Infrastructure Overview |  |Watch [Module 4](https://awsacademy.instructure.com/courses/976/modules#module_12159) videos| Test yourself quiz: week 5 |
 |09/29| Plotting | |Read Notebook 7 | HW 2|
 |10/01| Cloud Security | |Watch [Module 5](https://awsacademy.instructure.com/courses/976/modules#module_12160) videos |Test yourself quiz: week 6|
-|10/06| DataFrames | [API Notebook](CourseAssets/TimesAPI_Sp20_350.ipynb) | Read API Notebook|
+|10/06| DataFrames | [API Notebook](TimesAPI_Sp20_350.ipynb) | Read API Notebook|
 |10/08| Networking and Content Delivery | |Watch [Module 6](https://awsacademy.instructure.com/courses/976/modules#module_12161) videos | Test yourself quiz: week 7|
 |10/15|APIs |   | |Test yourself quiz: week 8  |
 |10/20| Project Day | |Read Notebook 8 | HW 3 |

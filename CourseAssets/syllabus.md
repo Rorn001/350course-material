@@ -18,7 +18,7 @@ Elements of Data Science is a textbook by Allen Downey written in the form of Ju
 
 * [AWS Academy Cloud Foundations (login required)](https://awsacademy.instructure.com/courses/976)
 
-AWS experts develop and maintain the Cloud Foundations reference material specifically for [AWS Academy](CourseAssets/AWSAcademyFlyer.pdf) courses such as this to ensure it keeps pace with cloud innovation and to [prepare students](CourseAssets/AWSAcademyEmployerInfographic.pdf) for real-world, industry challenges. 
+AWS experts develop and maintain the Cloud Foundations reference material specifically for [AWS Academy](./AWSAcademyFlyer.pdf) courses such as this to ensure it keeps pace with cloud innovation and to [prepare students](./AWSAcademyEmployerInfographic.pdf) for real-world, industry challenges. 
 
 ## Grading
 

@@ -4,7 +4,7 @@ Data Science Computing
 ## Summary of Topics
 Along with a primer on linux, scripting, Python and elementary programming concepts, the course introduces foundational knowledge of cloud computing. In the final project, students use Amazon Web Services for data science and machine learning applications.
 
-## Relationship to other courses offered by the Institute for Quantitative Theory and Methods (QTM)
+## Relationship to other courses at the Institute for Quantitative Theory and Methods (QTM)
 This course is intended as a follow up to QTM 220, exposing students to popular languages for data analysis that they haven’t used yet, important programming and computing concepts useful when working with computers, and emphasizing good workflows for reproducible research.
 
 ## Course objectives
